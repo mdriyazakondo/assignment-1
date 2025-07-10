@@ -52,7 +52,7 @@
 .nav-logo {
   font-size: 32px;
   color: #4e47ff;
-  font-weight: bold;
+  font-weight: 900;
 }
 .sign-up-btn .primary-btn {
   width: 132px;
@@ -295,7 +295,7 @@ footer {
 .footer .logo-2 {
   color: #4e47ff;
   font-size: 100px;
-  font-weight: bold;
+  font-weight: 900;
   margin-bottom: 8px;
 }
 
