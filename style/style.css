@@ -24,6 +24,7 @@
   border: 2px solid #4e47ff;
   border-radius: 10px;
   transition: all 0.6s ease;
+  cursor: pointer;
 }
 .primary-btn:hover {
   background-color: transparent;
@@ -245,6 +246,7 @@
   font-weight: 600;
   display: block;
   margin-bottom: 10px;
+  margin-top: 5px;
 }
 .news-form-section .input {
   border: none;
@@ -279,10 +281,15 @@ footer {
   list-style: none;
   display: inline;
   margin-left: 24px;
+  margin-top: 20px;
 }
 .footer ul li a {
   text-decoration: none;
   color: #8987a1;
+}
+.footer ul li a:hover {
+  color: #4e47ff;
+  text-decoration: underline;
 }
 
 .footer .logo-2 {
