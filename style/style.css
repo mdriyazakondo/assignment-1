@@ -265,3 +265,34 @@
   height: 50px;
   margin-top: 10px;
 }
+footer {
+  background-color: #f2eded;
+  text-align: center;
+  padding: 104px 455px 147px 455px;
+}
+
+.footer {
+  width: 531px;
+  margin: 0 auto;
+}
+.footer ul li {
+  list-style: none;
+  display: inline;
+  margin-left: 24px;
+}
+.footer ul li a {
+  text-decoration: none;
+  color: #8987a1;
+}
+
+.footer .logo-2 {
+  color: #4e47ff;
+  font-size: 100px;
+  font-weight: bold;
+  margin-bottom: 8px;
+}
+
+.footer-title {
+  color: #8987a1;
+  margin-bottom: 10px;
+}
