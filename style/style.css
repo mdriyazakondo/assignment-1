@@ -192,3 +192,76 @@
   color: rgb(134, 131, 131);
   font-weight: 500;
 }
+
+/* webflow-section */
+
+.webflow-section {
+  text-align: center;
+  background-color: #f2eded;
+  padding: 71px 150px;
+  border-radius: 10px;
+}
+.webflow-title {
+  font-size: 48px;
+  font-weight: bold;
+  color: #000000;
+  margin-bottom: 20px;
+}
+
+.webflow-description {
+  font-size: #0000007e;
+  margin-bottom: 20px;
+}
+
+.webflow-content .primary-btn {
+  padding: 15px 50px;
+  margin-bottom: 20px;
+}
+
+.webflow-image {
+  border-radius: 50px;
+}
+
+/* news-form-section */
+.newsletter {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 93px;
+  margin-bottom: 25px;
+}
+
+.news-title {
+  font-size: 97px;
+  font-weight: bold;
+}
+
+.news-form-section {
+  width: 497px;
+}
+.news-form-section label {
+  color: #000000;
+  font-size: 18px;
+  font-weight: 600;
+  display: block;
+  margin-bottom: 10px;
+}
+.news-form-section .input {
+  border: none;
+  outline: none;
+  width: 100%;
+  padding: 20px 32px;
+  background-color: #f2eded;
+  border-radius: 5px;
+  font-size: 20px;
+  font-weight: 400;
+}
+.news-form-section textarea {
+  resize: none;
+}
+.news-form-section .primary-btn {
+  display: block;
+  width: 100%;
+  height: 50px;
+  margin-top: 10px;
+}
