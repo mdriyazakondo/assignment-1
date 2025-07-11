@@ -162,7 +162,7 @@ body {
 }
 .review-content {
   padding: 24px;
-  background-color: #f2eded;
+  background-color: #ffffff;
   border-radius: 10px;
 }
 .review-content .review-icon {
@@ -197,7 +197,7 @@ body {
 
 .webflow-section {
   text-align: center;
-  background-color: #f2eded;
+  background-color: #ffffff;
   padding: 71px 150px;
   border-radius: 10px;
 }
@@ -252,7 +252,7 @@ body {
   outline: none;
   width: 100%;
   padding: 20px 32px;
-  background-color: #f2eded;
+  background-color: #ffffff;
   border-radius: 5px;
   font-size: 20px;
   font-weight: 400;
@@ -267,7 +267,7 @@ body {
   margin-top: 10px;
 }
 footer {
-  background-color: #f2eded;
+  background-color: #ffffff;
   text-align: center;
   padding: 104px 455px 147px 455px;
 }
