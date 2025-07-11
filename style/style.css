@@ -30,10 +30,9 @@
   background-color: transparent;
   color: #4e47ff;
 }
-/* body {
-  max-width: 1440px;
-  margin: 0 auto;
-} */
+body {
+  background-color: #f5f8ff;
+}
 
 /* banner section */
 .banner-section {
